@@ -12,26 +12,55 @@
 
 <h2>Student Dashboard</h2>
 
-<h3>Personal Details</h3>
+<div class="cards">
 
-<p><b>Name:</b> {{student.name}}</p>
-<p><b>KTU ID:</b> {{student.univ_reg_no}}</p>
-<p><b>CGPA:</b> {{student.cgpa}}</p>
+<div class="card">
+<b>Name</b><br>
+{{student.name}}
+</div>
+
+<div class="card">
+<b>KTU ID</b><br>
+{{student.univ_reg_no}}
+</div>
+
+<div class="card">
+<b>CGPA</b><br>
+{{student.cgpa}}
+</div>
+
+</div>
+
 
 <h3>Skills</h3>
+
 <ul>
 {% for skill in student.skills %}
 <li>{{skill}}</li>
 {% endfor %}
 </ul>
 
-<h3>Certificates</h3>
 
-<ul>
-<li><b>Sports:</b> {{student.uploaded_certificates.sports[0].event}}</li>
-<li><b>Cultural:</b> {{student.uploaded_certificates.cultural[0].event}}</li>
-<li><b>Hackathon:</b> {{student.uploaded_certificates.hackathons[0].event}}</li>
-</ul>
+<h3>Uploaded Certificates</h3>
+
+<div class="cards">
+
+<div class="card">
+<b>Sports</b><br>
+{{student.uploaded_certificates.sports[0].event}}
+</div>
+
+<div class="card">
+<b>Cultural</b><br>
+{{student.uploaded_certificates.cultural[0].event}}
+</div>
+
+<div class="card">
+<b>Hackathon</b><br>
+{{student.uploaded_certificates.hackathons[0].event}}
+</div>
+
+</div>
 
 </div>
 
