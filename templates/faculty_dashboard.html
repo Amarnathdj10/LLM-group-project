@@ -1,0 +1,20 @@
+<h2>Faculty Dashboard</h2>
+
+<table border="1">
+<tr>
+<th>Name</th>
+<th>CGPA</th>
+<th>Skills</th>
+</tr>
+
+{% for s in students %}
+
+<tr>
+<td>{{s.name}}</td>
+<td>{{s.cgpa}}</td>
+<td>{{s.skills}}</td>
+</tr>
+
+{% endfor %}
+
+</table>
