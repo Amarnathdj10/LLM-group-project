@@ -1,13 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Student Dashboard</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="dashboard">
+
 <h2>Student Dashboard</h2>
 
-<p>Name: {{student.name}}</p>
-<p>CGPA: {{student.cgpa}}</p>
-<p>Skills: {{student.skills}}</p>
+<h3>Personal Details</h3>
+
+<p><b>Name:</b> {{student.name}}</p>
+<p><b>KTU ID:</b> {{student.univ_reg_no}}</p>
+<p><b>CGPA:</b> {{student.cgpa}}</p>
+
+<h3>Skills</h3>
+<ul>
+{% for skill in student.skills %}
+<li>{{skill}}</li>
+{% endfor %}
+</ul>
 
 <h3>Certificates</h3>
 
 <ul>
-<li>Sports: {{student.uploaded_certificates.sports[0].event}}</li>
-<li>Cultural: {{student.uploaded_certificates.cultural[0].event}}</li>
-<li>Hackathon: {{student.uploaded_certificates.hackathons[0].event}}</li>
+<li><b>Sports:</b> {{student.uploaded_certificates.sports[0].event}}</li>
+<li><b>Cultural:</b> {{student.uploaded_certificates.cultural[0].event}}</li>
+<li><b>Hackathon:</b> {{student.uploaded_certificates.hackathons[0].event}}</li>
 </ul>
+
+</div>
+
+</body>
+</html>

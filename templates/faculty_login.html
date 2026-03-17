@@ -1,8 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Faculty Login</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
 <h2>Faculty Login</h2>
 
 <form action="/faculty-login" method="post">
-Username: <input name="username"><br><br>
-Password: <input type="password" name="password"><br><br>
+
+<label>Username</label>
+<input type="text" name="username" required>
+
+<label>Password</label>
+<input type="password" name="password" required>
 
 <button type="submit">Login</button>
+
 </form>
+
+<a href="/">Student Login</a>
+
+</div>
+
+</body>
+</html>

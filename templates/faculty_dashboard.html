@@ -1,8 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Faculty Dashboard</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="dashboard">
+
 <h2>Faculty Dashboard</h2>
 
-<table border="1">
+<a href="/faculty-chat">Open AI Assistant</a>
+
+<table>
+
 <tr>
 <th>Name</th>
+<th>KTU ID</th>
 <th>CGPA</th>
 <th>Skills</th>
 </tr>
@@ -11,6 +27,7 @@
 
 <tr>
 <td>{{s.name}}</td>
+<td>{{s.univ_reg_no}}</td>
 <td>{{s.cgpa}}</td>
 <td>{{s.skills}}</td>
 </tr>
@@ -18,3 +35,8 @@
 {% endfor %}
 
 </table>
+
+</div>
+
+</body>
+</html>
