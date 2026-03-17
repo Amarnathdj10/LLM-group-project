@@ -8,25 +8,30 @@
 
 <body>
 
+<div class="navbar">
+<h1>KTU Student Portal</h1>
+<a href="/">Logout</a>
+</div>
+
 <div class="dashboard">
 
-<h2>Student Dashboard</h2>
+<h2>Welcome {{student.name}}</h2>
 
 <div class="cards">
 
 <div class="card">
-<b>Name</b><br>
-{{student.name}}
+KTU ID<br>
+<b>{{student.univ_reg_no}}</b>
 </div>
 
 <div class="card">
-<b>KTU ID</b><br>
-{{student.univ_reg_no}}
+CGPA<br>
+<b>{{student.cgpa}}</b>
 </div>
 
 <div class="card">
-<b>CGPA</b><br>
-{{student.cgpa}}
+Certificates<br>
+<b>3 Uploaded</b>
 </div>
 
 </div>
@@ -34,28 +39,30 @@
 
 <h3>Skills</h3>
 
-<ul>
+<div class="skill-list">
+
 {% for skill in student.skills %}
-<li>{{skill}}</li>
+<div class="skill">{{skill}}</div>
 {% endfor %}
-</ul>
+
+</div>
 
 
-<h3>Uploaded Certificates</h3>
+<h3>Certificates</h3>
 
-<div class="cards">
+<div class="cert-grid">
 
-<div class="card">
+<div class="cert">
 <b>Sports</b><br>
 {{student.uploaded_certificates.sports[0].event}}
 </div>
 
-<div class="card">
+<div class="cert">
 <b>Cultural</b><br>
 {{student.uploaded_certificates.cultural[0].event}}
 </div>
 
-<div class="card">
+<div class="cert">
 <b>Hackathon</b><br>
 {{student.uploaded_certificates.hackathons[0].event}}
 </div>
