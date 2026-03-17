@@ -1,0 +1,3765 @@
+[
+  {
+    "name": "Aadil Sandeep",
+    "admission_no": "230177",
+    "roll_no": 301,
+    "univ_reg_no": "SCT23AM001",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.25,
+      "sem2": 8.36,
+      "sem3": 8.55,
+      "sem4": 9.49,
+      "sem5": 8.12,
+      "sem6": 9.01,
+      "sem7": 8.6,
+      "sem8": 8.85
+    },
+    "cgpa": 8.78,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "aadil_sandeep_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "aadil_sandeep_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "aadil_sandeep_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Python",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "aadil_sandeep_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Abhay Krishna",
+    "admission_no": "230411",
+    "roll_no": 302,
+    "univ_reg_no": "SCT23AM002",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.9,
+      "sem2": 8.83,
+      "sem3": 7.66,
+      "sem4": 8.0,
+      "sem5": 8.1,
+      "sem6": 8.07,
+      "sem7": 8.93,
+      "sem8": 9.07
+    },
+    "cgpa": 8.45,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "abhay_krishna_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "abhay_krishna_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "abhay_krishna_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "Java"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "abhay_krishna_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Abhin C",
+    "admission_no": "230578",
+    "roll_no": 303,
+    "univ_reg_no": "SCT23AM003",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.35,
+      "sem2": 7.88,
+      "sem3": 9.33,
+      "sem4": 8.55,
+      "sem5": 9.14,
+      "sem6": 9.38,
+      "sem7": 7.94,
+      "sem8": 9.08
+    },
+    "cgpa": 8.83,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "abhin_c_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "abhin_c_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "abhin_c_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "abhin_c_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Adithyan B M",
+    "admission_no": "230508",
+    "roll_no": 304,
+    "univ_reg_no": "SCT23AM004",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.14,
+      "sem2": 7.92,
+      "sem3": 8.63,
+      "sem4": 9.06,
+      "sem5": 7.86,
+      "sem6": 8.28,
+      "sem7": 9.44,
+      "sem8": 9.46
+    },
+    "cgpa": 8.72,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "adithyan_b_m_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "adithyan_b_m_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "adithyan_b_m_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "AWS",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "adithyan_b_m_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Adithyan R",
+    "admission_no": "230233",
+    "roll_no": 305,
+    "univ_reg_no": "SCT23AM005",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.67,
+      "sem2": 7.84,
+      "sem3": 8.02,
+      "sem4": 7.69,
+      "sem5": 8.9,
+      "sem6": 8.33,
+      "sem7": 9.24,
+      "sem8": 8.76
+    },
+    "cgpa": 8.31,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "adithyan_r_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "adithyan_r_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "adithyan_r_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "AWS",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "adithyan_r_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Adithyan U M",
+    "admission_no": "230232",
+    "roll_no": 306,
+    "univ_reg_no": "SCT23AM006",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.31,
+      "sem2": 8.35,
+      "sem3": 8.3,
+      "sem4": 7.99,
+      "sem5": 8.44,
+      "sem6": 7.95,
+      "sem7": 9.18,
+      "sem8": 8.22
+    },
+    "cgpa": 8.47,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "adithyan_u_m_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "adithyan_u_m_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "adithyan_u_m_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "React",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "adithyan_u_m_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Advaith S Vinod",
+    "admission_no": "230641",
+    "roll_no": 307,
+    "univ_reg_no": "SCT23AM007",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.9,
+      "sem2": 8.34,
+      "sem3": 7.75,
+      "sem4": 8.91,
+      "sem5": 9.02,
+      "sem6": 8.34,
+      "sem7": 7.85,
+      "sem8": 8.27
+    },
+    "cgpa": 8.3,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "advaith_s_vinod_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "advaith_s_vinod_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "advaith_s_vinod_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "SQL",
+      "React",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "advaith_s_vinod_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Aishwarya S A",
+    "admission_no": "230542",
+    "roll_no": 308,
+    "univ_reg_no": "SCT23AM008",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.86,
+      "sem2": 7.97,
+      "sem3": 7.59,
+      "sem4": 8.02,
+      "sem5": 8.35,
+      "sem6": 8.28,
+      "sem7": 8.21,
+      "sem8": 8.06
+    },
+    "cgpa": 8.17,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "aishwarya_s_a_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "aishwarya_s_a_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "aishwarya_s_a_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "Java"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "aishwarya_s_a_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Aiswarya Sreekumar",
+    "admission_no": "230207",
+    "roll_no": 309,
+    "univ_reg_no": "SCT23AM009",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.7,
+      "sem2": 8.98,
+      "sem3": 8.32,
+      "sem4": 8.58,
+      "sem5": 7.89,
+      "sem6": 8.03,
+      "sem7": 8.57,
+      "sem8": 8.25
+    },
+    "cgpa": 8.41,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "aiswarya_sreekumar_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "aiswarya_sreekumar_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "aiswarya_sreekumar_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Machine Learning",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "aiswarya_sreekumar_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Akash A J",
+    "admission_no": "230571",
+    "roll_no": 310,
+    "univ_reg_no": "SCT23AM010",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.06,
+      "sem2": 8.6,
+      "sem3": 9.42,
+      "sem4": 8.68,
+      "sem5": 8.25,
+      "sem6": 9.02,
+      "sem7": 9.34,
+      "sem8": 8.4
+    },
+    "cgpa": 8.85,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "akash_a_j_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "akash_a_j_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "akash_a_j_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "SQL",
+      "AWS",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "akash_a_j_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Akhilesh S",
+    "admission_no": "230196",
+    "roll_no": 311,
+    "univ_reg_no": "SCT23AM011",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.85,
+      "sem2": 9.05,
+      "sem3": 9.22,
+      "sem4": 8.06,
+      "sem5": 8.38,
+      "sem6": 7.78,
+      "sem7": 7.52,
+      "sem8": 8.31
+    },
+    "cgpa": 8.27,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "akhilesh_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "akhilesh_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "akhilesh_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Python",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "akhilesh_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Alfin Muhammed S",
+    "admission_no": "230555",
+    "roll_no": 312,
+    "univ_reg_no": "SCT23AM012",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.83,
+      "sem2": 8.17,
+      "sem3": 8.22,
+      "sem4": 8.73,
+      "sem5": 9.43,
+      "sem6": 9.12,
+      "sem7": 8.13,
+      "sem8": 8.4
+    },
+    "cgpa": 8.63,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "alfin_muhammed_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "alfin_muhammed_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "alfin_muhammed_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "React",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "alfin_muhammed_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Alna Mariya C T",
+    "admission_no": "230549",
+    "roll_no": 313,
+    "univ_reg_no": "SCT23AM013",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.47,
+      "sem2": 8.26,
+      "sem3": 7.64,
+      "sem4": 9.24,
+      "sem5": 8.68,
+      "sem6": 8.68,
+      "sem7": 9.06,
+      "sem8": 7.88
+    },
+    "cgpa": 8.49,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "alna_mariya_c_t_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "alna_mariya_c_t_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "alna_mariya_c_t_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "AWS",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "alna_mariya_c_t_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Amarnath D J",
+    "admission_no": "230100",
+    "roll_no": 314,
+    "univ_reg_no": "SCT23AM014",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.12,
+      "sem2": 8.9,
+      "sem3": 8.8,
+      "sem4": 8.99,
+      "sem5": 8.21,
+      "sem6": 7.83,
+      "sem7": 7.81,
+      "sem8": 8.79
+    },
+    "cgpa": 8.56,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "amarnath_d_j_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "amarnath_d_j_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "amarnath_d_j_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "React",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "amarnath_d_j_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Anantha Padmanabhan D",
+    "admission_no": "230235",
+    "roll_no": 315,
+    "univ_reg_no": "SCT23AM015",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.58,
+      "sem2": 8.95,
+      "sem3": 8.23,
+      "sem4": 8.25,
+      "sem5": 8.04,
+      "sem6": 8.56,
+      "sem7": 8.72,
+      "sem8": 7.98
+    },
+    "cgpa": 8.29,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "anantha_padmanabhan_d_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "anantha_padmanabhan_d_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "anantha_padmanabhan_d_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "AWS",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "anantha_padmanabhan_d_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Anjali S Nair",
+    "admission_no": "230491",
+    "roll_no": 316,
+    "univ_reg_no": "SCT23AM016",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.85,
+      "sem2": 8.25,
+      "sem3": 8.65,
+      "sem4": 9.42,
+      "sem5": 8.7,
+      "sem6": 9.3,
+      "sem7": 9.11,
+      "sem8": 7.52
+    },
+    "cgpa": 8.72,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "anjali_s_nair_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "anjali_s_nair_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "anjali_s_nair_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Python",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "anjali_s_nair_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Annu Maria Soney",
+    "admission_no": "230538",
+    "roll_no": 317,
+    "univ_reg_no": "SCT23AM017",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.57,
+      "sem2": 7.69,
+      "sem3": 9.09,
+      "sem4": 8.95,
+      "sem5": 8.93,
+      "sem6": 7.8,
+      "sem7": 8.16,
+      "sem8": 7.6
+    },
+    "cgpa": 8.35,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "annu_maria_soney_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "annu_maria_soney_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "annu_maria_soney_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "annu_maria_soney_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ansiba S N",
+    "admission_no": "230030",
+    "roll_no": 318,
+    "univ_reg_no": "SCT23AM018",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 9.21,
+      "sem2": 8.59,
+      "sem3": 8.9,
+      "sem4": 9.4,
+      "sem5": 8.0,
+      "sem6": 9.18,
+      "sem7": 9.06,
+      "sem8": 7.64
+    },
+    "cgpa": 8.75,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "ansiba_s_n_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "ansiba_s_n_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "ansiba_s_n_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "Java"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "ansiba_s_n_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ashish M Thaha",
+    "admission_no": "230229",
+    "roll_no": 319,
+    "univ_reg_no": "SCT23AM019",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.39,
+      "sem2": 9.46,
+      "sem3": 8.96,
+      "sem4": 7.84,
+      "sem5": 8.76,
+      "sem6": 8.27,
+      "sem7": 9.49,
+      "sem8": 8.63
+    },
+    "cgpa": 8.72,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "ashish_m_thaha_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "ashish_m_thaha_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "ashish_m_thaha_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "ashish_m_thaha_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ashlin Jones",
+    "admission_no": "230215",
+    "roll_no": 320,
+    "univ_reg_no": "SCT23AM020",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 7.67,
+      "sem2": 8.58,
+      "sem3": 7.57,
+      "sem4": 8.36,
+      "sem5": 8.88,
+      "sem6": 8.57,
+      "sem7": 8.82,
+      "sem8": 8.98
+    },
+    "cgpa": 8.43,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "ashlin_jones_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "ashlin_jones_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "ashlin_jones_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "ashlin_jones_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ashwin Prakash",
+    "admission_no": "230412",
+    "roll_no": 321,
+    "univ_reg_no": "SCT23AM021",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.23,
+      "sem2": 8.95,
+      "sem3": 8.68,
+      "sem4": 9.5,
+      "sem5": 7.65,
+      "sem6": 9.12,
+      "sem7": 8.04,
+      "sem8": 8.87
+    },
+    "cgpa": 8.63,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "ashwin_prakash_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "ashwin_prakash_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "ashwin_prakash_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "React",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "ashwin_prakash_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Aswin Binoy",
+    "admission_no": "230545",
+    "roll_no": 322,
+    "univ_reg_no": "SCT23AM022",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.93,
+      "sem2": 8.71,
+      "sem3": 9.1,
+      "sem4": 7.68,
+      "sem5": 9.23,
+      "sem6": 8.02,
+      "sem7": 9.17,
+      "sem8": 7.93
+    },
+    "cgpa": 8.47,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "aswin_binoy_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "aswin_binoy_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "aswin_binoy_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "AWS",
+      "Java",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "aswin_binoy_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Athira C",
+    "admission_no": "230505",
+    "roll_no": 323,
+    "univ_reg_no": "SCT23AM023",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.82,
+      "sem2": 9.17,
+      "sem3": 9.15,
+      "sem4": 7.86,
+      "sem5": 8.73,
+      "sem6": 8.95,
+      "sem7": 9.13,
+      "sem8": 9.07
+    },
+    "cgpa": 8.86,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "athira_c_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "athira_c_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "athira_c_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "athira_c_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Athul Krishna Naduvilpura",
+    "admission_no": "230101",
+    "roll_no": 324,
+    "univ_reg_no": "SCT23AM024",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.73,
+      "sem2": 8.76,
+      "sem3": 7.97,
+      "sem4": 8.56,
+      "sem5": 9.47,
+      "sem6": 8.27,
+      "sem7": 8.6,
+      "sem8": 9.05
+    },
+    "cgpa": 8.55,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "athul_krishna_naduvilpura_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "athul_krishna_naduvilpura_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "athul_krishna_naduvilpura_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "athul_krishna_naduvilpura_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Benson Babu Jacob",
+    "admission_no": "230241",
+    "roll_no": 325,
+    "univ_reg_no": "SCT23AM025",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.04,
+      "sem2": 8.89,
+      "sem3": 7.85,
+      "sem4": 8.92,
+      "sem5": 8.55,
+      "sem6": 9.43,
+      "sem7": 9.36,
+      "sem8": 8.2
+    },
+    "cgpa": 8.65,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "benson_babu_jacob_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "benson_babu_jacob_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "benson_babu_jacob_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "React",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "benson_babu_jacob_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Bhanupriya C P",
+    "admission_no": "230021",
+    "roll_no": 326,
+    "univ_reg_no": "SCT23AM026",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.21,
+      "sem2": 8.4,
+      "sem3": 7.71,
+      "sem4": 8.96,
+      "sem5": 8.56,
+      "sem6": 7.58,
+      "sem7": 9.01,
+      "sem8": 8.31
+    },
+    "cgpa": 8.34,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "bhanupriya_c_p_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "bhanupriya_c_p_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "bhanupriya_c_p_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "SQL",
+      "AWS",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "bhanupriya_c_p_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Devadathya",
+    "admission_no": "230225",
+    "roll_no": 327,
+    "univ_reg_no": "SCT23AM027",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.04,
+      "sem2": 8.31,
+      "sem3": 7.94,
+      "sem4": 9.43,
+      "sem5": 7.61,
+      "sem6": 8.24,
+      "sem7": 8.49,
+      "sem8": 8.5
+    },
+    "cgpa": 8.32,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "devadathya_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "devadathya_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "devadathya_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Java",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "devadathya_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Devanand J",
+    "admission_no": "230222",
+    "roll_no": 328,
+    "univ_reg_no": "SCT23AM028",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.64,
+      "sem2": 7.76,
+      "sem3": 8.01,
+      "sem4": 8.92,
+      "sem5": 8.98,
+      "sem6": 7.7,
+      "sem7": 9.05,
+      "sem8": 8.82
+    },
+    "cgpa": 8.36,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "devanand_j_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "devanand_j_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "devanand_j_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "React",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "devanand_j_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Devika I",
+    "admission_no": "230217",
+    "roll_no": 329,
+    "univ_reg_no": "SCT23AM029",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 9.02,
+      "sem2": 9.26,
+      "sem3": 7.58,
+      "sem4": 8.81,
+      "sem5": 7.83,
+      "sem6": 7.51,
+      "sem7": 8.42,
+      "sem8": 7.87
+    },
+    "cgpa": 8.29,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "devika_i_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "devika_i_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "devika_i_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "AWS",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "devika_i_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Diva Ajith",
+    "admission_no": "230211",
+    "roll_no": 330,
+    "univ_reg_no": "SCT23AM030",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.85,
+      "sem2": 9.28,
+      "sem3": 8.14,
+      "sem4": 8.72,
+      "sem5": 7.74,
+      "sem6": 8.79,
+      "sem7": 8.48,
+      "sem8": 8.97
+    },
+    "cgpa": 8.62,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "diva_ajith_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "diva_ajith_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "diva_ajith_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Machine Learning",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "diva_ajith_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Diva M P",
+    "admission_no": "230534",
+    "roll_no": 331,
+    "univ_reg_no": "SCT23AM031",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 7.58,
+      "sem2": 9.06,
+      "sem3": 7.96,
+      "sem4": 9.42,
+      "sem5": 8.96,
+      "sem6": 7.58,
+      "sem7": 8.68,
+      "sem8": 9.18
+    },
+    "cgpa": 8.55,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "diva_m_p_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "diva_m_p_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "diva_m_p_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "diva_m_p_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ebin Babu",
+    "admission_no": "230252",
+    "roll_no": 332,
+    "univ_reg_no": "SCT23AM032",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.97,
+      "sem2": 7.65,
+      "sem3": 9.26,
+      "sem4": 8.64,
+      "sem5": 8.55,
+      "sem6": 9.3,
+      "sem7": 7.68,
+      "sem8": 7.71
+    },
+    "cgpa": 8.47,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "ebin_babu_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "ebin_babu_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "ebin_babu_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "React",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "ebin_babu_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Eben B Gilbert",
+    "admission_no": "230008",
+    "roll_no": 333,
+    "univ_reg_no": "SCT23AM033",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.27,
+      "sem2": 9.46,
+      "sem3": 9.37,
+      "sem4": 8.39,
+      "sem5": 8.07,
+      "sem6": 7.72,
+      "sem7": 8.37,
+      "sem8": 7.84
+    },
+    "cgpa": 8.56,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "eben_b_gilbert_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "eben_b_gilbert_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "eben_b_gilbert_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "eben_b_gilbert_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Gautam B S",
+    "admission_no": "230231",
+    "roll_no": 334,
+    "univ_reg_no": "SCT23AM034",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.93,
+      "sem2": 7.74,
+      "sem3": 8.38,
+      "sem4": 9.34,
+      "sem5": 9.42,
+      "sem6": 7.54,
+      "sem7": 7.61,
+      "sem8": 9.0
+    },
+    "cgpa": 8.5,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "gautam_b_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "gautam_b_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "gautam_b_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Java",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "gautam_b_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Gautam B S",
+    "admission_no": "230231",
+    "roll_no": 335,
+    "univ_reg_no": "SCT23AM035",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.69,
+      "sem2": 8.93,
+      "sem3": 8.78,
+      "sem4": 9.25,
+      "sem5": 7.73,
+      "sem6": 8.61,
+      "sem7": 8.18,
+      "sem8": 8.46
+    },
+    "cgpa": 8.45,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "gautam_b_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "gautam_b_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "gautam_b_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "SQL",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "gautam_b_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Gowri R R",
+    "admission_no": "230226",
+    "roll_no": 336,
+    "univ_reg_no": "SCT23AM036",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.95,
+      "sem2": 9.11,
+      "sem3": 8.43,
+      "sem4": 8.03,
+      "sem5": 9.21,
+      "sem6": 9.05,
+      "sem7": 7.8,
+      "sem8": 8.01
+    },
+    "cgpa": 8.57,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "gowri_r_r_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "gowri_r_r_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "gowri_r_r_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "React",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "gowri_r_r_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Harshan Nair",
+    "admission_no": "230098",
+    "roll_no": 337,
+    "univ_reg_no": "SCT23AM037",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.51,
+      "sem2": 8.36,
+      "sem3": 8.63,
+      "sem4": 8.21,
+      "sem5": 9.32,
+      "sem6": 9.41,
+      "sem7": 7.96,
+      "sem8": 7.91
+    },
+    "cgpa": 8.54,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "harshan_nair_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "harshan_nair_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "harshan_nair_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "AWS",
+      "Java",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "harshan_nair_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Jeffin Mathew",
+    "admission_no": "230224",
+    "roll_no": 338,
+    "univ_reg_no": "SCT23AM038",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.03,
+      "sem2": 7.52,
+      "sem3": 7.61,
+      "sem4": 7.77,
+      "sem5": 8.35,
+      "sem6": 9.0,
+      "sem7": 8.62,
+      "sem8": 7.67
+    },
+    "cgpa": 8.07,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "jeffin_mathew_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "jeffin_mathew_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "jeffin_mathew_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "jeffin_mathew_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Kailas S S",
+    "admission_no": "230246",
+    "roll_no": 339,
+    "univ_reg_no": "SCT23AM039",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.1,
+      "sem2": 9.49,
+      "sem3": 9.06,
+      "sem4": 8.48,
+      "sem5": 9.48,
+      "sem6": 8.38,
+      "sem7": 8.31,
+      "sem8": 7.54
+    },
+    "cgpa": 8.73,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "kailas_s_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "kailas_s_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "kailas_s_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "Java",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "kailas_s_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Keerthi P",
+    "admission_no": "230208",
+    "roll_no": 340,
+    "univ_reg_no": "SCT23AM040",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 7.81,
+      "sem2": 8.96,
+      "sem3": 8.12,
+      "sem4": 8.2,
+      "sem5": 8.49,
+      "sem6": 8.37,
+      "sem7": 7.66,
+      "sem8": 9.07
+    },
+    "cgpa": 8.33,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "keerthi_p_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "keerthi_p_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "keerthi_p_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "AWS",
+      "Java"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "keerthi_p_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Kevin Varghese",
+    "admission_no": "230190",
+    "roll_no": 341,
+    "univ_reg_no": "SCT23AM041",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.09,
+      "sem2": 9.32,
+      "sem3": 9.34,
+      "sem4": 7.9,
+      "sem5": 9.11,
+      "sem6": 7.89,
+      "sem7": 8.94,
+      "sem8": 9.4
+    },
+    "cgpa": 8.75,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "kevin_varghese_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "kevin_varghese_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "kevin_varghese_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Java",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "kevin_varghese_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Lakshmi R",
+    "admission_no": "230221",
+    "roll_no": 342,
+    "univ_reg_no": "SCT23AM042",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 9.08,
+      "sem2": 7.68,
+      "sem3": 8.82,
+      "sem4": 8.65,
+      "sem5": 9.11,
+      "sem6": 8.75,
+      "sem7": 8.99,
+      "sem8": 7.93
+    },
+    "cgpa": 8.63,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "lakshmi_r_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "lakshmi_r_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "lakshmi_r_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Python",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "lakshmi_r_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Lekshmi S Nair",
+    "admission_no": "230219",
+    "roll_no": 343,
+    "univ_reg_no": "SCT23AM043",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.79,
+      "sem2": 8.11,
+      "sem3": 8.83,
+      "sem4": 9.45,
+      "sem5": 8.28,
+      "sem6": 8.55,
+      "sem7": 9.41,
+      "sem8": 9.43
+    },
+    "cgpa": 8.86,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "lekshmi_s_nair_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "lekshmi_s_nair_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "lekshmi_s_nair_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Java",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "lekshmi_s_nair_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Madhav Krishna",
+    "admission_no": "230215",
+    "roll_no": 344,
+    "univ_reg_no": "SCT23AM044",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.49,
+      "sem2": 8.44,
+      "sem3": 8.96,
+      "sem4": 9.49,
+      "sem5": 7.76,
+      "sem6": 7.75,
+      "sem7": 7.9,
+      "sem8": 8.29
+    },
+    "cgpa": 8.51,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "madhav_krishna_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "madhav_krishna_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "madhav_krishna_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "madhav_krishna_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Meenakshy Aj",
+    "admission_no": "230216",
+    "roll_no": 345,
+    "univ_reg_no": "SCT23AM045",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.15,
+      "sem2": 8.23,
+      "sem3": 7.89,
+      "sem4": 7.76,
+      "sem5": 8.22,
+      "sem6": 7.95,
+      "sem7": 9.48,
+      "sem8": 8.7
+    },
+    "cgpa": 8.3,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "meenakshy_aj_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "meenakshy_aj_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "meenakshy_aj_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "React",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "meenakshy_aj_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Mehthab Yasir",
+    "admission_no": "230220",
+    "roll_no": 346,
+    "univ_reg_no": "SCT23AM046",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.81,
+      "sem2": 9.05,
+      "sem3": 8.47,
+      "sem4": 9.2,
+      "sem5": 9.25,
+      "sem6": 8.9,
+      "sem7": 8.66,
+      "sem8": 8.98
+    },
+    "cgpa": 8.79,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "mehthab_yasir_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "mehthab_yasir_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "mehthab_yasir_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "mehthab_yasir_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Muhammed Sinan D",
+    "admission_no": "230208",
+    "roll_no": 347,
+    "univ_reg_no": "SCT23AM047",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.41,
+      "sem2": 7.68,
+      "sem3": 9.39,
+      "sem4": 7.78,
+      "sem5": 7.66,
+      "sem6": 8.26,
+      "sem7": 8.24,
+      "sem8": 8.17
+    },
+    "cgpa": 8.2,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "muhammed_sinan_d_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "muhammed_sinan_d_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "muhammed_sinan_d_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "muhammed_sinan_d_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Mukundan V S",
+    "admission_no": "230586",
+    "roll_no": 348,
+    "univ_reg_no": "SCT23AM048",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.99,
+      "sem2": 9.2,
+      "sem3": 7.86,
+      "sem4": 7.87,
+      "sem5": 7.98,
+      "sem6": 8.96,
+      "sem7": 8.35,
+      "sem8": 8.91
+    },
+    "cgpa": 8.52,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "mukundan_v_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "mukundan_v_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "mukundan_v_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "AWS",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "mukundan_v_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Nakhathe Bhargavi",
+    "admission_no": "230247",
+    "roll_no": 349,
+    "univ_reg_no": "SCT23AM049",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 7.84,
+      "sem2": 8.99,
+      "sem3": 9.29,
+      "sem4": 7.84,
+      "sem5": 8.14,
+      "sem6": 8.35,
+      "sem7": 8.93,
+      "sem8": 8.93
+    },
+    "cgpa": 8.54,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "nakhathe_bhargavi_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "nakhathe_bhargavi_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "nakhathe_bhargavi_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "nakhathe_bhargavi_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Nikhil Prasad",
+    "admission_no": "230234",
+    "roll_no": 350,
+    "univ_reg_no": "SCT23AM050",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.47,
+      "sem2": 7.83,
+      "sem3": 9.18,
+      "sem4": 9.33,
+      "sem5": 9.17,
+      "sem6": 7.64,
+      "sem7": 7.95,
+      "sem8": 8.41
+    },
+    "cgpa": 8.62,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "nikhil_prasad_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "nikhil_prasad_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "nikhil_prasad_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "nikhil_prasad_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Paul Johnston",
+    "admission_no": "230237",
+    "roll_no": 351,
+    "univ_reg_no": "SCT23AM051",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.18,
+      "sem2": 9.15,
+      "sem3": 8.96,
+      "sem4": 8.71,
+      "sem5": 7.6,
+      "sem6": 7.74,
+      "sem7": 9.48,
+      "sem8": 8.95
+    },
+    "cgpa": 8.6,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "paul_johnston_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "paul_johnston_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "paul_johnston_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "SQL",
+      "React",
+      "Java"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "paul_johnston_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Pranav M Nair",
+    "admission_no": "230585",
+    "roll_no": 352,
+    "univ_reg_no": "SCT23AM052",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.61,
+      "sem2": 9.48,
+      "sem3": 9.02,
+      "sem4": 9.3,
+      "sem5": 7.77,
+      "sem6": 7.57,
+      "sem7": 8.66,
+      "sem8": 9.1
+    },
+    "cgpa": 8.56,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "pranav_m_nair_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "pranav_m_nair_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "pranav_m_nair_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "pranav_m_nair_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Rinu Antony",
+    "admission_no": "230540",
+    "roll_no": 353,
+    "univ_reg_no": "SCT23AM053",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 9.3,
+      "sem2": 8.13,
+      "sem3": 8.79,
+      "sem4": 8.33,
+      "sem5": 7.67,
+      "sem6": 8.39,
+      "sem7": 8.33,
+      "sem8": 8.36
+    },
+    "cgpa": 8.41,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "rinu_antony_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "rinu_antony_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "rinu_antony_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "rinu_antony_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Riya Kunjumon",
+    "admission_no": "230023",
+    "roll_no": 354,
+    "univ_reg_no": "SCT23AM054",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.29,
+      "sem2": 9.47,
+      "sem3": 7.53,
+      "sem4": 8.6,
+      "sem5": 9.44,
+      "sem6": 8.89,
+      "sem7": 9.26,
+      "sem8": 8.15
+    },
+    "cgpa": 8.7,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Football",
+          "certificate_file": "riya_kunjumon_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "riya_kunjumon_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "riya_kunjumon_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "SQL",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "riya_kunjumon_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Rohit Raj",
+    "admission_no": "230526",
+    "roll_no": 355,
+    "univ_reg_no": "SCT23AM055",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.22,
+      "sem2": 8.63,
+      "sem3": 8.12,
+      "sem4": 9.49,
+      "sem5": 8.28,
+      "sem6": 8.14,
+      "sem7": 8.88,
+      "sem8": 8.77
+    },
+    "cgpa": 8.57,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "rohit_raj_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "rohit_raj_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "rohit_raj_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "AWS",
+      "React",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "rohit_raj_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Rohit V S",
+    "admission_no": "230218",
+    "roll_no": 356,
+    "univ_reg_no": "SCT23AM056",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.75,
+      "sem2": 8.84,
+      "sem3": 8.2,
+      "sem4": 7.59,
+      "sem5": 8.89,
+      "sem6": 8.52,
+      "sem7": 7.75,
+      "sem8": 9.28
+    },
+    "cgpa": 8.48,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "rohit_v_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "rohit_v_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "rohit_v_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "rohit_v_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "S Aathira",
+    "admission_no": "230409",
+    "roll_no": 357,
+    "univ_reg_no": "SCT23AM057",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.54,
+      "sem2": 7.75,
+      "sem3": 8.6,
+      "sem4": 7.9,
+      "sem5": 9.17,
+      "sem6": 7.84,
+      "sem7": 7.76,
+      "sem8": 7.61
+    },
+    "cgpa": 8.15,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "s_aathira_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "s_aathira_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "s_aathira_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "s_aathira_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "S Govind Krishnan",
+    "admission_no": "230248",
+    "roll_no": 358,
+    "univ_reg_no": "SCT23AM058",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.52,
+      "sem2": 8.09,
+      "sem3": 8.13,
+      "sem4": 7.82,
+      "sem5": 8.26,
+      "sem6": 8.62,
+      "sem7": 7.95,
+      "sem8": 8.7
+    },
+    "cgpa": 8.26,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "s_govind_krishnan_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "s_govind_krishnan_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "s_govind_krishnan_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "AWS",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "s_govind_krishnan_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Shahnas M",
+    "admission_no": "230230",
+    "roll_no": 359,
+    "univ_reg_no": "SCT23AM059",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.05,
+      "sem2": 9.33,
+      "sem3": 9.25,
+      "sem4": 8.49,
+      "sem5": 9.16,
+      "sem6": 7.56,
+      "sem7": 7.77,
+      "sem8": 7.54
+    },
+    "cgpa": 8.39,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "shahnas_m_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "shahnas_m_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "shahnas_m_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "shahnas_m_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Sidharth S",
+    "admission_no": "230004",
+    "roll_no": 360,
+    "univ_reg_no": "SCT23AM060",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.36,
+      "sem2": 8.02,
+      "sem3": 8.57,
+      "sem4": 8.95,
+      "sem5": 9.08,
+      "sem6": 7.68,
+      "sem7": 9.23,
+      "sem8": 8.51
+    },
+    "cgpa": 8.68,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "sidharth_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "sidharth_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "sidharth_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "SQL",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "sidharth_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Soorya Narayanan S",
+    "admission_no": "230236",
+    "roll_no": 361,
+    "univ_reg_no": "SCT23AM061",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.96,
+      "sem2": 8.18,
+      "sem3": 8.22,
+      "sem4": 8.28,
+      "sem5": 8.82,
+      "sem6": 9.39,
+      "sem7": 7.99,
+      "sem8": 9.07
+    },
+    "cgpa": 8.49,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Volleyball",
+          "certificate_file": "soorya_narayanan_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "soorya_narayanan_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "soorya_narayanan_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "SQL",
+      "React",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "soorya_narayanan_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "S R Brahan Madhav",
+    "admission_no": "230223",
+    "roll_no": 362,
+    "univ_reg_no": "SCT23AM062",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.11,
+      "sem2": 8.48,
+      "sem3": 9.33,
+      "sem4": 8.38,
+      "sem5": 8.49,
+      "sem6": 9.39,
+      "sem7": 8.84,
+      "sem8": 8.41
+    },
+    "cgpa": 8.8,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Cricket",
+          "certificate_file": "s_r_brahan_madhav_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "s_r_brahan_madhav_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "s_r_brahan_madhav_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "AWS",
+      "React",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "s_r_brahan_madhav_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "S R Mekha",
+    "admission_no": "230251",
+    "roll_no": 363,
+    "univ_reg_no": "SCT23AM063",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 9.13,
+      "sem2": 7.92,
+      "sem3": 9.48,
+      "sem4": 8.1,
+      "sem5": 8.62,
+      "sem6": 8.1,
+      "sem7": 9.07,
+      "sem8": 7.84
+    },
+    "cgpa": 8.53,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "s_r_mekha_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "s_r_mekha_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "s_r_mekha_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "AWS",
+      "Python",
+      "Machine Learning"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "s_r_mekha_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Thejas Baiju",
+    "admission_no": "230256",
+    "roll_no": 364,
+    "univ_reg_no": "SCT23AM064",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.88,
+      "sem2": 8.61,
+      "sem3": 8.69,
+      "sem4": 8.87,
+      "sem5": 8.43,
+      "sem6": 8.79,
+      "sem7": 8.98,
+      "sem8": 8.8
+    },
+    "cgpa": 8.76,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "thejas_baiju_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "thejas_baiju_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "thejas_baiju_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "React",
+      "Python",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "thejas_baiju_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Vidya Vijayan S",
+    "admission_no": "230240",
+    "roll_no": 365,
+    "univ_reg_no": "SCT23AM065",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.08,
+      "sem2": 9.15,
+      "sem3": 7.93,
+      "sem4": 8.92,
+      "sem5": 8.62,
+      "sem6": 7.66,
+      "sem7": 8.31,
+      "sem8": 7.76
+    },
+    "cgpa": 8.3,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "vidya_vijayan_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "vidya_vijayan_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "vidya_vijayan_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "AWS",
+      "Machine Learning",
+      "Python"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "vidya_vijayan_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Adhway Satheesh K",
+    "admission_no": "240025",
+    "roll_no": 366,
+    "univ_reg_no": "SCT23AM066",
+    "gender": "Female",
+    "sgpa": {
+      "sem1": 8.39,
+      "sem2": 8.66,
+      "sem3": 9.13,
+      "sem4": 8.95,
+      "sem5": 8.83,
+      "sem6": 8.23,
+      "sem7": 8.48,
+      "sem8": 8.43
+    },
+    "cgpa": 8.64,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "adhway_satheesh_k_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Drama",
+          "certificate_file": "adhway_satheesh_k_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "adhway_satheesh_k_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "Java",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "adhway_satheesh_k_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Devduth",
+    "admission_no": "240012",
+    "roll_no": 367,
+    "univ_reg_no": "SCT23AM067",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.09,
+      "sem2": 8.33,
+      "sem3": 7.9,
+      "sem4": 8.06,
+      "sem5": 8.45,
+      "sem6": 8.67,
+      "sem7": 8.56,
+      "sem8": 9.24
+    },
+    "cgpa": 8.54,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "devduth_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "devduth_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "devduth_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "SQL"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "devduth_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Gokul S",
+    "admission_no": "240037",
+    "roll_no": 368,
+    "univ_reg_no": "SCT23AM068",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 7.71,
+      "sem2": 8.68,
+      "sem3": 8.58,
+      "sem4": 7.52,
+      "sem5": 8.93,
+      "sem6": 9.21,
+      "sem7": 9.29,
+      "sem8": 9.01
+    },
+    "cgpa": 8.62,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "gokul_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Music",
+          "certificate_file": "gokul_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Campus Hackathon",
+          "certificate_file": "gokul_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "React"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "gokul_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Gokul B S",
+    "admission_no": "240017",
+    "roll_no": 369,
+    "univ_reg_no": "SCT23AM069",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 8.46,
+      "sem2": 8.61,
+      "sem3": 9.32,
+      "sem4": 8.99,
+      "sem5": 7.84,
+      "sem6": 9.46,
+      "sem7": 7.92,
+      "sem8": 8.72
+    },
+    "cgpa": 8.67,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "gokul_b_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Photography",
+          "certificate_file": "gokul_b_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "AI Innovation Hackathon",
+          "certificate_file": "gokul_b_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "gokul_b_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Nikhil P S",
+    "admission_no": "240023",
+    "roll_no": 370,
+    "univ_reg_no": "SCT23AM070",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.34,
+      "sem2": 9.4,
+      "sem3": 7.83,
+      "sem4": 8.79,
+      "sem5": 7.88,
+      "sem6": 9.02,
+      "sem7": 9.43,
+      "sem8": 8.35
+    },
+    "cgpa": 8.75,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Basketball",
+          "certificate_file": "nikhil_p_s_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Debate",
+          "certificate_file": "nikhil_p_s_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "nikhil_p_s_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "Java"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "nikhil_p_s_internship.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Rahul J A",
+    "admission_no": "240001",
+    "roll_no": 371,
+    "univ_reg_no": "SCT23AM071",
+    "gender": "Male",
+    "sgpa": {
+      "sem1": 9.17,
+      "sem2": 7.63,
+      "sem3": 8.11,
+      "sem4": 8.11,
+      "sem5": 8.47,
+      "sem6": 8.6,
+      "sem7": 7.72,
+      "sem8": 8.57
+    },
+    "cgpa": 8.3,
+    "uploaded_certificates": {
+      "sports": [
+        {
+          "event": "Badminton",
+          "certificate_file": "rahul_j_a_sports.pdf",
+          "verified_by": "sports_coordinator"
+        }
+      ],
+      "cultural": [
+        {
+          "event": "Dance",
+          "certificate_file": "rahul_j_a_cultural.pdf",
+          "verified_by": "cultural_committee"
+        }
+      ],
+      "hackathons": [
+        {
+          "event": "Smart India Hackathon",
+          "certificate_file": "rahul_j_a_hackathon.pdf",
+          "verified_by": "innovation_cell"
+        }
+      ]
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS"
+    ],
+    "internships": [
+      {
+        "company": "TechCorp",
+        "role": "Software Intern",
+        "certificate_file": "rahul_j_a_internship.pdf"
+      }
+    ]
+  }
+]

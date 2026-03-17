@@ -1,0 +1,428 @@
+[
+  {
+    "text": "<s>[INST] Tell me about Aadil Sandeep [/INST] Aadil Sandeep has a CGPA of 8.78. Skills include Java, Python, Machine Learning. Uploaded certificates include Football, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Aadil Sandeep uploaded? [/INST] Aadil Sandeep has uploaded certificates for Football, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Abhay Krishna [/INST] Abhay Krishna has a CGPA of 8.45. Skills include Python, SQL, Java. Uploaded certificates include Badminton, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Abhay Krishna uploaded? [/INST] Abhay Krishna has uploaded certificates for Badminton, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Abhin C [/INST] Abhin C has a CGPA of 8.83. Skills include Machine Learning, AWS, React. Uploaded certificates include Basketball, Drama, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Abhin C uploaded? [/INST] Abhin C has uploaded certificates for Basketball, Drama, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Adithyan B M [/INST] Adithyan B M has a CGPA of 8.72. Skills include React, AWS, Machine Learning. Uploaded certificates include Volleyball, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Adithyan B M uploaded? [/INST] Adithyan B M has uploaded certificates for Volleyball, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Adithyan R [/INST] Adithyan R has a CGPA of 8.31. Skills include React, AWS, SQL. Uploaded certificates include Badminton, Music, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Adithyan R uploaded? [/INST] Adithyan R has uploaded certificates for Badminton, Music, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Adithyan U M [/INST] Adithyan U M has a CGPA of 8.47. Skills include Java, React, Python. Uploaded certificates include Basketball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Adithyan U M uploaded? [/INST] Adithyan U M has uploaded certificates for Basketball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Advaith S Vinod [/INST] Advaith S Vinod has a CGPA of 8.3. Skills include SQL, React, AWS. Uploaded certificates include Cricket, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Advaith S Vinod uploaded? [/INST] Advaith S Vinod has uploaded certificates for Cricket, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Aishwarya S A [/INST] Aishwarya S A has a CGPA of 8.17. Skills include Python, SQL, Java. Uploaded certificates include Basketball, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Aishwarya S A uploaded? [/INST] Aishwarya S A has uploaded certificates for Basketball, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Aiswarya Sreekumar [/INST] Aiswarya Sreekumar has a CGPA of 8.41. Skills include React, Machine Learning, AWS. Uploaded certificates include Badminton, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Aiswarya Sreekumar uploaded? [/INST] Aiswarya Sreekumar has uploaded certificates for Badminton, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Akash A J [/INST] Akash A J has a CGPA of 8.85. Skills include SQL, AWS, React. Uploaded certificates include Cricket, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Akash A J uploaded? [/INST] Akash A J has uploaded certificates for Cricket, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Akhilesh S [/INST] Akhilesh S has a CGPA of 8.27. Skills include React, Python, Machine Learning. Uploaded certificates include Basketball, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Akhilesh S uploaded? [/INST] Akhilesh S has uploaded certificates for Basketball, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Alfin Muhammed S [/INST] Alfin Muhammed S has a CGPA of 8.63. Skills include Machine Learning, React, AWS. Uploaded certificates include Badminton, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Alfin Muhammed S uploaded? [/INST] Alfin Muhammed S has uploaded certificates for Badminton, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Alna Mariya C T [/INST] Alna Mariya C T has a CGPA of 8.49. Skills include Python, AWS, Machine Learning. Uploaded certificates include Volleyball, Drama, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Alna Mariya C T uploaded? [/INST] Alna Mariya C T has uploaded certificates for Volleyball, Drama, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Amarnath D J [/INST] Amarnath D J has a CGPA of 8.56. Skills include Java, React, SQL. Uploaded certificates include Basketball, Music, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Amarnath D J uploaded? [/INST] Amarnath D J has uploaded certificates for Basketball, Music, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Anantha Padmanabhan D [/INST] Anantha Padmanabhan D has a CGPA of 8.29. Skills include Python, AWS, Machine Learning. Uploaded certificates include Cricket, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Anantha Padmanabhan D uploaded? [/INST] Anantha Padmanabhan D has uploaded certificates for Cricket, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Anjali S Nair [/INST] Anjali S Nair has a CGPA of 8.72. Skills include Java, Python, SQL. Uploaded certificates include Badminton, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Anjali S Nair uploaded? [/INST] Anjali S Nair has uploaded certificates for Badminton, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Annu Maria Soney [/INST] Annu Maria Soney has a CGPA of 8.35. Skills include Machine Learning, AWS, React. Uploaded certificates include Basketball, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Annu Maria Soney uploaded? [/INST] Annu Maria Soney has uploaded certificates for Basketball, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Ansiba S N [/INST] Ansiba S N has a CGPA of 8.75. Skills include Machine Learning, AWS, Java. Uploaded certificates include Badminton, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Ansiba S N uploaded? [/INST] Ansiba S N has uploaded certificates for Badminton, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Ashish M Thaha [/INST] Ashish M Thaha has a CGPA of 8.72. Skills include Java, Machine Learning, Python. Uploaded certificates include Basketball, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Ashish M Thaha uploaded? [/INST] Ashish M Thaha has uploaded certificates for Basketball, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Ashlin Jones [/INST] Ashlin Jones has a CGPA of 8.43. Skills include Python, React, SQL. Uploaded certificates include Football, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Ashlin Jones uploaded? [/INST] Ashlin Jones has uploaded certificates for Football, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Ashwin Prakash [/INST] Ashwin Prakash has a CGPA of 8.63. Skills include Python, React, AWS. Uploaded certificates include Basketball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Ashwin Prakash uploaded? [/INST] Ashwin Prakash has uploaded certificates for Basketball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Aswin Binoy [/INST] Aswin Binoy has a CGPA of 8.47. Skills include AWS, Java, Python. Uploaded certificates include Football, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Aswin Binoy uploaded? [/INST] Aswin Binoy has uploaded certificates for Football, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Athira C [/INST] Athira C has a CGPA of 8.86. Skills include Machine Learning, AWS, React. Uploaded certificates include Badminton, Music, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Athira C uploaded? [/INST] Athira C has uploaded certificates for Badminton, Music, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Athul Krishna Naduvilpura [/INST] Athul Krishna Naduvilpura has a CGPA of 8.55. Skills include Java, Machine Learning, SQL. Uploaded certificates include Badminton, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Athul Krishna Naduvilpura uploaded? [/INST] Athul Krishna Naduvilpura has uploaded certificates for Badminton, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Benson Babu Jacob [/INST] Benson Babu Jacob has a CGPA of 8.65. Skills include Java, React, SQL. Uploaded certificates include Football, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Benson Babu Jacob uploaded? [/INST] Benson Babu Jacob has uploaded certificates for Football, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Bhanupriya C P [/INST] Bhanupriya C P has a CGPA of 8.34. Skills include SQL, AWS, Machine Learning. Uploaded certificates include Cricket, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Bhanupriya C P uploaded? [/INST] Bhanupriya C P has uploaded certificates for Cricket, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Devadathya [/INST] Devadathya has a CGPA of 8.32. Skills include React, Java, Machine Learning. Uploaded certificates include Badminton, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Devadathya uploaded? [/INST] Devadathya has uploaded certificates for Badminton, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Devanand J [/INST] Devanand J has a CGPA of 8.36. Skills include Java, React, SQL. Uploaded certificates include Football, Drama, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Devanand J uploaded? [/INST] Devanand J has uploaded certificates for Football, Drama, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Devika I [/INST] Devika I has a CGPA of 8.29. Skills include Python, AWS, SQL. Uploaded certificates include Volleyball, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Devika I uploaded? [/INST] Devika I has uploaded certificates for Volleyball, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Diva Ajith [/INST] Diva Ajith has a CGPA of 8.62. Skills include React, Machine Learning, SQL. Uploaded certificates include Football, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Diva Ajith uploaded? [/INST] Diva Ajith has uploaded certificates for Football, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Diva M P [/INST] Diva M P has a CGPA of 8.55. Skills include Python, SQL, React. Uploaded certificates include Cricket, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Diva M P uploaded? [/INST] Diva M P has uploaded certificates for Cricket, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Ebin Babu [/INST] Ebin Babu has a CGPA of 8.47. Skills include Java, React, Python. Uploaded certificates include Football, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Ebin Babu uploaded? [/INST] Ebin Babu has uploaded certificates for Football, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Eben B Gilbert [/INST] Eben B Gilbert has a CGPA of 8.56. Skills include Machine Learning, AWS, SQL. Uploaded certificates include Football, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Eben B Gilbert uploaded? [/INST] Eben B Gilbert has uploaded certificates for Football, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Gautam B S [/INST] Gautam B S has a CGPA of 8.5. Skills include React, Java, Python. Uploaded certificates include Cricket, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Gautam B S uploaded? [/INST] Gautam B S has uploaded certificates for Cricket, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Gautam B S [/INST] Gautam B S has a CGPA of 8.45. Skills include Java, SQL, Machine Learning. Uploaded certificates include Football, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Gautam B S uploaded? [/INST] Gautam B S has uploaded certificates for Football, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Gowri R R [/INST] Gowri R R has a CGPA of 8.57. Skills include Machine Learning, React, Python. Uploaded certificates include Football, Photography, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Gowri R R uploaded? [/INST] Gowri R R has uploaded certificates for Football, Photography, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Harshan Nair [/INST] Harshan Nair has a CGPA of 8.54. Skills include AWS, Java, SQL. Uploaded certificates include Badminton, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Harshan Nair uploaded? [/INST] Harshan Nair has uploaded certificates for Badminton, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Jeffin Mathew [/INST] Jeffin Mathew has a CGPA of 8.07. Skills include Python, Machine Learning, React. Uploaded certificates include Basketball, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Jeffin Mathew uploaded? [/INST] Jeffin Mathew has uploaded certificates for Basketball, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Kailas S S [/INST] Kailas S S has a CGPA of 8.73. Skills include Machine Learning, Java, React. Uploaded certificates include Basketball, Photography, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Kailas S S uploaded? [/INST] Kailas S S has uploaded certificates for Basketball, Photography, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Keerthi P [/INST] Keerthi P has a CGPA of 8.33. Skills include React, AWS, Java. Uploaded certificates include Volleyball, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Keerthi P uploaded? [/INST] Keerthi P has uploaded certificates for Volleyball, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Kevin Varghese [/INST] Kevin Varghese has a CGPA of 8.75. Skills include React, Java, Python. Uploaded certificates include Volleyball, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Kevin Varghese uploaded? [/INST] Kevin Varghese has uploaded certificates for Volleyball, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Lakshmi R [/INST] Lakshmi R has a CGPA of 8.63. Skills include Java, Python, React. Uploaded certificates include Badminton, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Lakshmi R uploaded? [/INST] Lakshmi R has uploaded certificates for Badminton, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Lekshmi S Nair [/INST] Lekshmi S Nair has a CGPA of 8.86. Skills include React, Java, SQL. Uploaded certificates include Volleyball, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Lekshmi S Nair uploaded? [/INST] Lekshmi S Nair has uploaded certificates for Volleyball, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Madhav Krishna [/INST] Madhav Krishna has a CGPA of 8.51. Skills include Machine Learning, AWS, SQL. Uploaded certificates include Basketball, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Madhav Krishna uploaded? [/INST] Madhav Krishna has uploaded certificates for Basketball, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Meenakshy Aj [/INST] Meenakshy Aj has a CGPA of 8.3. Skills include Machine Learning, React, Python. Uploaded certificates include Basketball, Music, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Meenakshy Aj uploaded? [/INST] Meenakshy Aj has uploaded certificates for Basketball, Music, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Mehthab Yasir [/INST] Mehthab Yasir has a CGPA of 8.79. Skills include Java, Machine Learning, Python. Uploaded certificates include Cricket, Photography, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Mehthab Yasir uploaded? [/INST] Mehthab Yasir has uploaded certificates for Cricket, Photography, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Muhammed Sinan D [/INST] Muhammed Sinan D has a CGPA of 8.2. Skills include Python, SQL, Machine Learning. Uploaded certificates include Cricket, Drama, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Muhammed Sinan D uploaded? [/INST] Muhammed Sinan D has uploaded certificates for Cricket, Drama, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Mukundan V S [/INST] Mukundan V S has a CGPA of 8.52. Skills include Java, AWS, Machine Learning. Uploaded certificates include Volleyball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Mukundan V S uploaded? [/INST] Mukundan V S has uploaded certificates for Volleyball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Nakhathe Bhargavi [/INST] Nakhathe Bhargavi has a CGPA of 8.54. Skills include Python, SQL, AWS. Uploaded certificates include Badminton, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Nakhathe Bhargavi uploaded? [/INST] Nakhathe Bhargavi has uploaded certificates for Badminton, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Nikhil Prasad [/INST] Nikhil Prasad has a CGPA of 8.62. Skills include Python, Java, AWS. Uploaded certificates include Basketball, Music, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Nikhil Prasad uploaded? [/INST] Nikhil Prasad has uploaded certificates for Basketball, Music, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Paul Johnston [/INST] Paul Johnston has a CGPA of 8.6. Skills include SQL, React, Java. Uploaded certificates include Volleyball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Paul Johnston uploaded? [/INST] Paul Johnston has uploaded certificates for Volleyball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Pranav M Nair [/INST] Pranav M Nair has a CGPA of 8.56. Skills include Machine Learning, SQL, React. Uploaded certificates include Badminton, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Pranav M Nair uploaded? [/INST] Pranav M Nair has uploaded certificates for Badminton, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Rinu Antony [/INST] Rinu Antony has a CGPA of 8.41. Skills include Machine Learning, Python, React. Uploaded certificates include Cricket, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Rinu Antony uploaded? [/INST] Rinu Antony has uploaded certificates for Cricket, Drama, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Riya Kunjumon [/INST] Riya Kunjumon has a CGPA of 8.7. Skills include React, SQL, AWS. Uploaded certificates include Football, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Riya Kunjumon uploaded? [/INST] Riya Kunjumon has uploaded certificates for Football, Dance, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Rohit Raj [/INST] Rohit Raj has a CGPA of 8.57. Skills include AWS, React, Python. Uploaded certificates include Basketball, Photography, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Rohit Raj uploaded? [/INST] Rohit Raj has uploaded certificates for Basketball, Photography, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Rohit V S [/INST] Rohit V S has a CGPA of 8.48. Skills include Python, React, SQL. Uploaded certificates include Volleyball, Music, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Rohit V S uploaded? [/INST] Rohit V S has uploaded certificates for Volleyball, Music, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about S Aathira [/INST] S Aathira has a CGPA of 8.15. Skills include Java, Machine Learning, React. Uploaded certificates include Badminton, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has S Aathira uploaded? [/INST] S Aathira has uploaded certificates for Badminton, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about S Govind Krishnan [/INST] S Govind Krishnan has a CGPA of 8.26. Skills include Java, AWS, React. Uploaded certificates include Cricket, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has S Govind Krishnan uploaded? [/INST] S Govind Krishnan has uploaded certificates for Cricket, Debate, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Shahnas M [/INST] Shahnas M has a CGPA of 8.39. Skills include Machine Learning, Python, React. Uploaded certificates include Cricket, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Shahnas M uploaded? [/INST] Shahnas M has uploaded certificates for Cricket, Dance, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Sidharth S [/INST] Sidharth S has a CGPA of 8.68. Skills include Java, SQL, React. Uploaded certificates include Cricket, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Sidharth S uploaded? [/INST] Sidharth S has uploaded certificates for Cricket, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Soorya Narayanan S [/INST] Soorya Narayanan S has a CGPA of 8.49. Skills include SQL, React, AWS. Uploaded certificates include Volleyball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Soorya Narayanan S uploaded? [/INST] Soorya Narayanan S has uploaded certificates for Volleyball, Photography, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about S R Brahan Madhav [/INST] S R Brahan Madhav has a CGPA of 8.8. Skills include AWS, React, Python. Uploaded certificates include Cricket, Drama, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has S R Brahan Madhav uploaded? [/INST] S R Brahan Madhav has uploaded certificates for Cricket, Drama, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about S R Mekha [/INST] S R Mekha has a CGPA of 8.53. Skills include AWS, Python, Machine Learning. Uploaded certificates include Badminton, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has S R Mekha uploaded? [/INST] S R Mekha has uploaded certificates for Badminton, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Thejas Baiju [/INST] Thejas Baiju has a CGPA of 8.76. Skills include React, Python, SQL. Uploaded certificates include Badminton, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Thejas Baiju uploaded? [/INST] Thejas Baiju has uploaded certificates for Badminton, Debate, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Vidya Vijayan S [/INST] Vidya Vijayan S has a CGPA of 8.3. Skills include AWS, Machine Learning, Python. Uploaded certificates include Badminton, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Vidya Vijayan S uploaded? [/INST] Vidya Vijayan S has uploaded certificates for Badminton, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Adhway Satheesh K [/INST] Adhway Satheesh K has a CGPA of 8.64. Skills include Machine Learning, Java, SQL. Uploaded certificates include Basketball, Drama, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Adhway Satheesh K uploaded? [/INST] Adhway Satheesh K has uploaded certificates for Basketball, Drama, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Devduth [/INST] Devduth has a CGPA of 8.54. Skills include Machine Learning, Python, SQL. Uploaded certificates include Basketball, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Devduth uploaded? [/INST] Devduth has uploaded certificates for Basketball, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Gokul S [/INST] Gokul S has a CGPA of 8.62. Skills include SQL, Machine Learning, React. Uploaded certificates include Basketball, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Gokul S uploaded? [/INST] Gokul S has uploaded certificates for Basketball, Music, and Campus Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Gokul B S [/INST] Gokul B S has a CGPA of 8.67. Skills include Machine Learning, SQL, AWS. Uploaded certificates include Basketball, Photography, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Gokul B S uploaded? [/INST] Gokul B S has uploaded certificates for Basketball, Photography, and AI Innovation Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Nikhil P S [/INST] Nikhil P S has a CGPA of 8.75. Skills include Machine Learning, AWS, Java. Uploaded certificates include Basketball, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Nikhil P S uploaded? [/INST] Nikhil P S has uploaded certificates for Basketball, Debate, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] Tell me about Rahul J A [/INST] Rahul J A has a CGPA of 8.3. Skills include Python, SQL, AWS. Uploaded certificates include Badminton, Dance, and Smart India Hackathon. </s>"
+  },
+  {
+    "text": "<s>[INST] What certificates has Rahul J A uploaded? [/INST] Rahul J A has uploaded certificates for Badminton, Dance, and Smart India Hackathon. </s>"
+  }
+]
