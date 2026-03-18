@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Cache
+pip-wheel-metadata/
+
+# Pytest
+.cache/
+
+# Model artifacts (large files)
+*.safetensors
+*.pt
+*.pth
+
+# Notebook checkpoints
+.ipynb_checkpoints/
